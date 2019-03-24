@@ -33,7 +33,6 @@ int main(){
 		default:n=334;
 			for(b=1;b<=j;b++,n++);break;
 	}
-	printf("%d",n);
 	switch(n%7)
 	{
 		case 0:
