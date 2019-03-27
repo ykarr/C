@@ -1,4 +1,4 @@
-//백준-2741번 n찍기
+//백준-2741번 n찍기 
 //n은 주어짐 
 #include<stdio.h>
 int main(){
