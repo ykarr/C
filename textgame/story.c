@@ -18,7 +18,7 @@ int main()
 	char a,name[10]; 
 	int first,i,b;
 	printf("불러오기 미구현버전,밸런스 미구현(여러가지 미구현)\n"); 
-	printf("1. 시작\n");
+	printf("1. start\n");
 	printf("2. 불러오기\n");
 	
 	scanf("%d",&first);
